@@ -1,0 +1,60 @@
+body{
+    font-family: monospace;
+}
+
+a{
+    text-decoration: none;
+}
+
+.link{
+    color: darkcyan;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.header{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: rgb(180, 124, 232);
+}
+
+.smallHeader{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.mainText{
+    color: burlywood;
+    font-style: italic;
+}
+
+.text{
+    color: dimgray;
+}
+
+.formText{
+    color: rgb(137, 82, 188);
+}
+
+.input{
+    width: 200px;
+    height: 30px;
+    border: 2px solid plum;
+}
+
+.button{
+    min-width: 100px;
+    height: 50px;
+    font-size: 12px;
+    font-family: monospace;
+    border: 2px solid powderblue;
+}
+
+img{
+    border-radius: 400px 15px 400px 0;
+}
